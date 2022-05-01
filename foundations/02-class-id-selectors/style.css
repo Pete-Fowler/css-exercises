@@ -1,0 +1,15 @@
+.h2 {
+    color: black; background-color: pink; font-size: medium;
+}
+
+.large {
+    font-size: large;
+}
+
+#bg {
+    color: black; background-color: rgb(100, 247, 100); font-weight: 700;
+}
+
+#bbw {
+    color: blue; background-color: white; font-size: x-large;
+}
