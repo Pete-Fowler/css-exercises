@@ -9,6 +9,8 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  flex: 1;
+  justify-self: center;
 }
 
 ul {
